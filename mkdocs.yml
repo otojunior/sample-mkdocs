@@ -1,7 +1,6 @@
 site_name: Sample-MKDocs
 theme:
-  name: darkly
-  nav_style: dark
+  name: readthedocs
   home: index
 nav:
   - Menu 1: menu1.md
