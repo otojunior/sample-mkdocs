@@ -1,7 +1,7 @@
 site_name: Sample-MKDocs
 theme:
-  name: simplex
-  #nav_style: dark
+  name: darkly
+  nav_style: dark
   home: index
 nav:
   - Menu 1: menu1.md
