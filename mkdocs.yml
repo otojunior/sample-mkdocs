@@ -1,0 +1,13 @@
+site_name: Sample-MKDocs
+theme:
+  name: custommill
+  home: principal
+nav:
+  - Principal: principal.md
+  - Menu 1: menu1.md
+  - Menu 2: menu2.md
+  - Menu 3: menu3.md
+  - Info:
+    - Info1: info/info1.md
+    - Info2: info/info2.md
+
