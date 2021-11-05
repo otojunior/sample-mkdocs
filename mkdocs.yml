@@ -1,9 +1,9 @@
 site_name: Sample-MKDocs
 theme:
-  name: custommill
-  home: principal
+  name: simplex
+  #nav_style: dark
+  home: index
 nav:
-  - Principal: principal.md
   - Menu 1: menu1.md
   - Menu 2: menu2.md
   - Menu 3: menu3.md
